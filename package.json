@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron7 ."
+  },
+  "keywords": [],
+  "author": "",
+  "description": "test app",
+  "repository": "https://gitlab.mouf.net/swills/my-electron-app",
+  "license": "ISC"
+}
